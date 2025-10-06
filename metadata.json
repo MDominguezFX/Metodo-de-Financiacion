@@ -1,0 +1,5 @@
+{
+  "name": "Payment Plan Calculator",
+  "description": "An interest-free payment plan calculator with features for down payments, installments calculated every 30 days, PNG export, and an E-CHEQS option with exchange rate conversion. Optimized for a great user experience with a sleek, dark interface.",
+  "requestFramePermissions": []
+}
